@@ -10,7 +10,11 @@
 > 
 > - ⚡ Fun fact: I'm a 📸 Photography && 🪐 Space NERD 
 
+My Tags And Bugs:
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" border="10" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="50" height="50" border="10" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" width="50" height="50" border="10" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50" height="50" border="10" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" width="50" height="50" border="10" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" border="10" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="50" height="50" border="10" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50" height="50" border="10" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50" border="10" />
+          
+          
 
 
 <!--
