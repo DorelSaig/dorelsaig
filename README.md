@@ -1,14 +1,12 @@
 # Hi there, My Name is Dorel Saig 👋
 
-## :man_student: Software Engineering Student Specialize in Mobile Systems Development :iphone:
+## :man_student: Software Engineer Specialize in Mobile Systems Development :iphone:
 
-> - 👣 In the course of my studies I've learned Java, Android, CSS-JS-React, C and more.
+> - 👣 In the course of my studies I've learned Java, Android, Swift, CSS-JS-React, C and more.
 > 
-> - 🌱 Currently I'm learning Swift :apple:
+> - 💬 Ask me about Anything! everyday is a good day to learn something new.
 > 
-> - 💬 Ask me about Anything! cause everyday is a good day to learn something new.
-> 
-> - ⚡ Fun fact: I'm a 📸 Photography && 🪐 Space Enthusiastic 🤩
+> - ⚡ Fun fact: I'm a 📸 Photographer && 🪐 Space Enthusiastic 🤩
 
 Connect & Contact:
 ---
